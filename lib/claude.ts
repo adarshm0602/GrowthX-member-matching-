@@ -10,7 +10,7 @@ const anthropic = new Anthropic({
   apiKey: process.env.ANTHROPIC_API_KEY,
 });
 
-const MODEL = 'claude-sonnet-4-20250514';
+const MODEL = 'claude-sonnet-4-5-20250929';
 
 async function callWithRetry(
   params: Anthropic.Messages.MessageCreateParamsNonStreaming,
