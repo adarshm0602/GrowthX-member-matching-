@@ -46,7 +46,11 @@ App runs at http://localhost:3000. Seeded members share the password `Password12
 
 ## Screenshots
 
-Coming soon.
+**Your Matches Dashboard — AI-ranked members with compatibility scores and reasoning**
+
+![Dashboard matches top row](public/screenshots/dashboard-matches-1.png)
+
+![Dashboard matches bottom row](public/screenshots/dashboard-matches-2.png)
 
 ## Story
 
